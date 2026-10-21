@@ -1,0 +1,15 @@
+node_modules/
+.env
+.auth/
+test-results/
+playwright-report/
+reports/
+allure-results/
+__pycache__/
+.pytest_cache/
+.idea/
+.gradle/
+build/
+*.log
+*.apk
+local.properties

@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Node / WebdriverIO test automation
+node_modules/
+
+# Python / pytest bytecode cache
+__pycache__/
+*.pyc
+
+# APK build artifacts too large for a normal git push (GitHub's 100MB hard
+# limit) - build/download separately, not tracked in this repo.
+*.apk
